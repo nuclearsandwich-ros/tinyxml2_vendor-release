@@ -1,1 +1,1 @@
-{"trim": "", "base": "63ead45", "trimbase": "", "parent": "debian/foxy/tinyxml2_vendor", "previous": "8a4190e"}
+{"base": "39b6630", "parent": "debian/testing/tinyxml2_vendor", "previous": "f0b314e", "trim": "", "trimbase": ""}
